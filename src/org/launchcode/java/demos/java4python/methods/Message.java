@@ -5,7 +5,7 @@ package org.launchcode.java.demos.java4python.methods;
  */
 public class Message {
 
-    public static String getMessage(String lang) {
+    public static String getMessagetest(String lang) {
 
         if (lang.equals("sp")) {
             return "Hola Mundo";
